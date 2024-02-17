@@ -1,5 +1,6 @@
 public class Base {
-    public static void main(String[] args) {
-
-    }
+    String Stars;
+    String Moon;
+    String Planets;
 }
+
